@@ -1,1 +1,1 @@
-# Lab8_ML
+The task involved using the K-Nearest Neighbors algorithm to classify data points from the KNN_Project_Data dataset into one of two target classes based on multiple numerical features. The data was explored, then standardized using feature scaling before being split into training and testing sets. A KNN model was trained and evaluated, followed by a tuning process to identify the optimal number of neighbors by analyzing error rates across different K values. The model was then retrained with K=30, achieving an overall accuracy of approximately 82%.
